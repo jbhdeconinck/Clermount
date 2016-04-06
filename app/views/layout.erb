@@ -10,6 +10,14 @@
     <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <link rel="stylesheet" type="text/css" href="<%= url("/style.css")%>">
     <style>
+
+    .navbar {
+      position: static;
+    }
+    .navbar .nav > li {
+      z-index: 1001;
+    }
+
     #brand {
       color: blue;
       letter-spacing: 2px;
