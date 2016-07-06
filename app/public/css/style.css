@@ -1,0 +1,21 @@
+.navbar-inverse {
+    background-color: black;
+}
+
+#brand {
+  color: white;
+  font-size: 35px;
+  letter-spacing: 5px;
+}
+
+.container {
+  height: auto !important;
+}
+
+.footer{
+  background-color: #222222;
+  color: white;
+  position:fixed;
+  bottom:0;
+  left:0;right:0;height:30px;
+}
