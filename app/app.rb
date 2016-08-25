@@ -9,6 +9,10 @@ class Clermount < Sinatra::Base
     erb :'team'
   end
 
+  # get '/OurApproach' do
+  #   erb :'approach'
+  # end
+
   get '/Contact' do
     erb :'contact'
   end
