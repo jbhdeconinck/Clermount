@@ -19,3 +19,14 @@
   bottom:0;
   left:0;right:0;height:30px;
 }
+
+#panel-heading {
+  letter-spacing: 2px;
+  font-size:18px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+#map {
+        height: 400px;
+        width: 100%;
+}
